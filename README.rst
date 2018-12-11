@@ -1,3 +1,11 @@
+reason of this fork
+===================
+
+Changed the getfuncargvalue call getfixturevalue call to makes compatible
+for pytest 4.0.1
+
+I have no idea what does this call but the plugin seems to work.
+
 pytest-tornado
 ==============
 
